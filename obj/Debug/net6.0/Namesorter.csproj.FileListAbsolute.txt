@@ -1,0 +1,15 @@
+C:\Users\gizem\OneDrive\Documents\Project\Namesorter\Namesorter\bin\Debug\net6.0\Namesorter.exe
+C:\Users\gizem\OneDrive\Documents\Project\Namesorter\Namesorter\bin\Debug\net6.0\Namesorter.deps.json
+C:\Users\gizem\OneDrive\Documents\Project\Namesorter\Namesorter\bin\Debug\net6.0\Namesorter.runtimeconfig.json
+C:\Users\gizem\OneDrive\Documents\Project\Namesorter\Namesorter\bin\Debug\net6.0\Namesorter.dll
+C:\Users\gizem\OneDrive\Documents\Project\Namesorter\Namesorter\bin\Debug\net6.0\ref\Namesorter.dll
+C:\Users\gizem\OneDrive\Documents\Project\Namesorter\Namesorter\bin\Debug\net6.0\Namesorter.pdb
+C:\Users\gizem\OneDrive\Documents\Project\Namesorter\Namesorter\obj\Debug\net6.0\Namesorter.csproj.AssemblyReference.cache
+C:\Users\gizem\OneDrive\Documents\Project\Namesorter\Namesorter\obj\Debug\net6.0\Namesorter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gizem\OneDrive\Documents\Project\Namesorter\Namesorter\obj\Debug\net6.0\Namesorter.AssemblyInfoInputs.cache
+C:\Users\gizem\OneDrive\Documents\Project\Namesorter\Namesorter\obj\Debug\net6.0\Namesorter.AssemblyInfo.cs
+C:\Users\gizem\OneDrive\Documents\Project\Namesorter\Namesorter\obj\Debug\net6.0\Namesorter.csproj.CoreCompileInputs.cache
+C:\Users\gizem\OneDrive\Documents\Project\Namesorter\Namesorter\obj\Debug\net6.0\Namesorter.dll
+C:\Users\gizem\OneDrive\Documents\Project\Namesorter\Namesorter\obj\Debug\net6.0\ref\Namesorter.dll
+C:\Users\gizem\OneDrive\Documents\Project\Namesorter\Namesorter\obj\Debug\net6.0\Namesorter.pdb
+C:\Users\gizem\OneDrive\Documents\Project\Namesorter\Namesorter\obj\Debug\net6.0\Namesorter.genruntimeconfig.cache
