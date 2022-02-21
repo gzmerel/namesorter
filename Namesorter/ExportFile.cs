@@ -1,22 +1,21 @@
-﻿using System;
-using System.IO;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
 
-namespace Namesorter
+namespace NameSorter
 {
     public class ExportFile
     {
-        public static void ExportData(string[] dataToWrite)
-            {
-                File.WriteAllLines("sorted-names-list.txt", dataToWrite);
-                Console.Write("File Written Successfully");
+        public void ExportData(IEnumerable<Name> names)
+        {
+            var formattedNames = new List<string>();
+            foreach (var name in names) {
+                formattedNames.Add(name.FullName);
             }
-        
+            File.WriteAllLines("sorted-names-list.txt", formattedNames);
+            Console.Write("File Written Successfully");
+        }
+
     }
-    
+
 }
 
 
