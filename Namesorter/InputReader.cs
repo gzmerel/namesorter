@@ -5,11 +5,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Namesorter {
+namespace NameSorter {
 
  public class InputReader {
 
-        public string GetFileName(Console console)
+        public string GetFileName()
 
         {
             Console.WriteLine("Enter a path ");

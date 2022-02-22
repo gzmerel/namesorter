@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Namesorter
+namespace NameSorter
 {
-    public class NameList
+    public class NameParser
     {
         public List<Name> GetNameList(string path)
         {
@@ -25,20 +25,8 @@ namespace Namesorter
                 });
                 ;
             }
+            return myName;
         }
             
     }
-}
-
-
-    public class Name
-    {
-        public string FirstNames { get; set; }
-        public string LastName { get; set; }
-
-    }
-
-
-
-
 }
